@@ -17,10 +17,3 @@ The following plot shows the sum of rewards during episodes for both Q-Learning 
 
 ![Sum of Rewards during Episodes](https://github.com/tarhanefe/q-vs-sarsa-comparsion/blob/main/Q_Learning%20vs%20Sarsa.png)
 
-## Trajectories
-
-### Sarsa Trajectory
-
-The trajectory followed by the agent using the Sarsa algorithm is shown below:
-
-![Sarsa Trajectory](//Sarsa Trajectory.png)
