@@ -15,7 +15,7 @@ The GridWorld environment consists of a grid where an agent starts at the bottom
 
 The following plot shows the sum of rewards during episodes for both Q-Learning and Sarsa algorithms:
 
-![Sum of Rewards during Episodes](Q_Learning vs Sarsa.png)
+![Sum of Rewards during Episodes](https://github.com/tarhanefe/q-vs-sarsa-comparsion/blob/main/Q_Learning%20vs%20Sarsa.png)
 
 ## Trajectories
 
@@ -23,4 +23,4 @@ The following plot shows the sum of rewards during episodes for both Q-Learning 
 
 The trajectory followed by the agent using the Sarsa algorithm is shown below:
 
-![Sarsa Trajectory](Sarsa Trajectory.png)
+![Sarsa Trajectory](//Sarsa Trajectory.png)
